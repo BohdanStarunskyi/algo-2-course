@@ -1,0 +1,2 @@
+Text: abababababababababababababababababababababababababababababababababababababababababababababababababab... (length: 102001)
+Pattern: abababababababababababababababc

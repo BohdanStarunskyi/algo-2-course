@@ -1,0 +1,2 @@
+Text: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa... (length: 101000)
+Pattern: cbcbcbcbcbcbcbcbcbcb
