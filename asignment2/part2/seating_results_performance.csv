@@ -1,0 +1,2 @@
+guest_count,animosity_count,algorithm_time,graph_creation_time,verification_time,total_time,memory_usage,iterations,connected_components,solution_found
+15,10,2.9802322387695312e-05,6.9141387939453125e-06,1.6927719116210938e-05,0.0002219676971435547,0,15,5,True

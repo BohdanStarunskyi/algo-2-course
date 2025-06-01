@@ -1,0 +1,10 @@
+Harry,Draco
+Harry,Snape
+Ron,Draco
+Hermione,Draco
+Uncle Vernon,Harry
+Dudley,Harry
+Fred,Snape
+George,Snape
+Luna,Draco
+Neville,Snape

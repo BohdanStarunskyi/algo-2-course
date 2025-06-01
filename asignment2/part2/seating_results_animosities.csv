@@ -1,0 +1,11 @@
+Person_1,Person_2,Person_1_Table,Person_2_Table,Conflict_Resolved
+Harry,Draco,Table B,Table A,True
+Harry,Snape,Table B,Table A,True
+Ron,Draco,Table B,Table A,True
+Hermione,Draco,Table B,Table A,True
+Uncle Vernon,Harry,Table A,Table B,True
+Dudley,Harry,Table A,Table B,True
+Fred,Snape,Table B,Table A,True
+George,Snape,Table B,Table A,True
+Luna,Draco,Table B,Table A,True
+Neville,Snape,Table B,Table A,True

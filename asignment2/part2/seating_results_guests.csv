@@ -1,0 +1,16 @@
+Guest_Name,Table_Assignment,Table_Number,Animosity_Count
+Aunt Petunia,Table A,0,0
+Uncle Vernon,Table A,0,1
+Harry,Table B,1,4
+Dudley,Table A,0,1
+Hermione,Table B,1,1
+Ron,Table B,1,1
+Ginny,Table A,0,0
+Fred,Table B,1,1
+George,Table B,1,1
+Molly,Table A,0,0
+Arthur,Table A,0,0
+Luna,Table B,1,1
+Neville,Table B,1,1
+Draco,Table A,0,4
+Snape,Table A,0,4
